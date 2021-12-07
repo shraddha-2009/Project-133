@@ -1,0 +1,23 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status:hover
+{
+    color: black;
+    background-color: white;
+    transition: 0.6s ease;
+    font-size: 18px;
+}
+body{
+    background-size: cover;
+}
+.label{
+    color: black;
+    font-size: 23px;
+}
+
